@@ -8,9 +8,9 @@ LemuroidCores é um repositório dedicado ao cache de cores Libretro estáveis. 
 
 ## Características
 
-- Armazenamento de cores Libretro estáveis
-- Fork do projeto original LemuroidCores
-- Compatível com o ecossistema Libretro
+* Armazenamento de cores Libretro estáveis
+* Fork do projeto original LemuroidCores
+* Compatível com o ecossistema Libretro
 
 ## Como Usar
 
@@ -37,5 +37,3 @@ Este é um fork do [Swordfish90/LemuroidCores](https://github.com/Swordfish90/Le
 Este projeto segue a licença do repositório original.
 
 ---
-
-**Nota**: Este README é uma sugestão inicial e pode ser modificado de acordo com suas necessidades específicas.
